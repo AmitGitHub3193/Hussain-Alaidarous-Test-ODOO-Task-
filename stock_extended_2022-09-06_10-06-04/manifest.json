@@ -1,0 +1,41 @@
+{
+    "odoo_dump": "1",
+    "db_name": "stock_extended",
+    "version": "13.0",
+    "version_info": [
+        13,
+        0,
+        0,
+        "final",
+        0,
+        ""
+    ],
+    "major_version": "13.0",
+    "pg_version": "12.0",
+    "modules": {
+        "web_kanban_gauge": "13.0.1.0",
+        "base": "13.0.1.3",
+        "bus": "13.0.1.0",
+        "web_unsplash": "13.0.1.1",
+        "auth_signup": "13.0.1.0",
+        "stock": "13.0.1.1",
+        "barcodes": "13.0.2.0",
+        "snailmail": "13.0.0.1",
+        "iap": "13.0.1.0",
+        "stock_extended": "13.0.1.6",
+        "sms": "13.0.2.0",
+        "uom": "13.0.1.0",
+        "base_import": "13.0.1.0",
+        "web_diagram": "13.0.2.0",
+        "phone_validation": "13.0.2.0",
+        "web": "13.0.1.0",
+        "web_editor": "13.0.1.0",
+        "web_tour": "13.0.0.1",
+        "base_setup": "13.0.1.0",
+        "mail": "13.0.1.0",
+        "fetchmail": "13.0.1.0",
+        "partner_autocomplete": "13.0.1.0",
+        "product": "13.0.1.2",
+        "stock_sms": "13.0.1.0"
+    }
+}
